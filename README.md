@@ -1,3 +1,14 @@
+<style>
+  body {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background-attachment: fixed;
+  }
+  .markdown-body {
+    background-color: rgba(255, 255, 255, 0.85);
+    border-radius: 10px;
+    padding: 20px;
+  }
+</style>
 # sbbbbbbb
 # 我的第一个小工具 🛠️
 
